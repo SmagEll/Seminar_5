@@ -1,0 +1,15 @@
+C:\Users\Acer\Desktop\Тестировщик\1 четверть\Практические\C#\Seminar_5\Home2\bin\Debug\net6.0\Home2.exe
+C:\Users\Acer\Desktop\Тестировщик\1 четверть\Практические\C#\Seminar_5\Home2\bin\Debug\net6.0\Home2.deps.json
+C:\Users\Acer\Desktop\Тестировщик\1 четверть\Практические\C#\Seminar_5\Home2\bin\Debug\net6.0\Home2.runtimeconfig.json
+C:\Users\Acer\Desktop\Тестировщик\1 четверть\Практические\C#\Seminar_5\Home2\bin\Debug\net6.0\Home2.dll
+C:\Users\Acer\Desktop\Тестировщик\1 четверть\Практические\C#\Seminar_5\Home2\bin\Debug\net6.0\Home2.pdb
+C:\Users\Acer\Desktop\Тестировщик\1 четверть\Практические\C#\Seminar_5\Home2\obj\Debug\net6.0\Home2.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\Тестировщик\1 четверть\Практические\C#\Seminar_5\Home2\obj\Debug\net6.0\Home2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\Тестировщик\1 четверть\Практические\C#\Seminar_5\Home2\obj\Debug\net6.0\Home2.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\Тестировщик\1 четверть\Практические\C#\Seminar_5\Home2\obj\Debug\net6.0\Home2.AssemblyInfo.cs
+C:\Users\Acer\Desktop\Тестировщик\1 четверть\Практические\C#\Seminar_5\Home2\obj\Debug\net6.0\Home2.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Тестировщик\1 четверть\Практические\C#\Seminar_5\Home2\obj\Debug\net6.0\Home2.dll
+C:\Users\Acer\Desktop\Тестировщик\1 четверть\Практические\C#\Seminar_5\Home2\obj\Debug\net6.0\refint\Home2.dll
+C:\Users\Acer\Desktop\Тестировщик\1 четверть\Практические\C#\Seminar_5\Home2\obj\Debug\net6.0\Home2.pdb
+C:\Users\Acer\Desktop\Тестировщик\1 четверть\Практические\C#\Seminar_5\Home2\obj\Debug\net6.0\Home2.genruntimeconfig.cache
+C:\Users\Acer\Desktop\Тестировщик\1 четверть\Практические\C#\Seminar_5\Home2\obj\Debug\net6.0\ref\Home2.dll
