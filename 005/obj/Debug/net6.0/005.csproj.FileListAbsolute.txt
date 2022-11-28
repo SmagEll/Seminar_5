@@ -1,0 +1,15 @@
+C:\Users\Acer\Desktop\Тестировщик\1 четверть\Практические\C#\Seminar_5\005\obj\Debug\net6.0\005.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\Тестировщик\1 четверть\Практические\C#\Seminar_5\005\obj\Debug\net6.0\005.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\Тестировщик\1 четверть\Практические\C#\Seminar_5\005\obj\Debug\net6.0\005.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\Тестировщик\1 четверть\Практические\C#\Seminar_5\005\obj\Debug\net6.0\005.AssemblyInfo.cs
+C:\Users\Acer\Desktop\Тестировщик\1 четверть\Практические\C#\Seminar_5\005\obj\Debug\net6.0\005.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Тестировщик\1 четверть\Практические\C#\Seminar_5\005\bin\Debug\net6.0\005.exe
+C:\Users\Acer\Desktop\Тестировщик\1 четверть\Практические\C#\Seminar_5\005\bin\Debug\net6.0\005.deps.json
+C:\Users\Acer\Desktop\Тестировщик\1 четверть\Практические\C#\Seminar_5\005\bin\Debug\net6.0\005.runtimeconfig.json
+C:\Users\Acer\Desktop\Тестировщик\1 четверть\Практические\C#\Seminar_5\005\bin\Debug\net6.0\005.dll
+C:\Users\Acer\Desktop\Тестировщик\1 четверть\Практические\C#\Seminar_5\005\bin\Debug\net6.0\005.pdb
+C:\Users\Acer\Desktop\Тестировщик\1 четверть\Практические\C#\Seminar_5\005\obj\Debug\net6.0\005.dll
+C:\Users\Acer\Desktop\Тестировщик\1 четверть\Практические\C#\Seminar_5\005\obj\Debug\net6.0\refint\005.dll
+C:\Users\Acer\Desktop\Тестировщик\1 четверть\Практические\C#\Seminar_5\005\obj\Debug\net6.0\005.pdb
+C:\Users\Acer\Desktop\Тестировщик\1 четверть\Практические\C#\Seminar_5\005\obj\Debug\net6.0\005.genruntimeconfig.cache
+C:\Users\Acer\Desktop\Тестировщик\1 четверть\Практические\C#\Seminar_5\005\obj\Debug\net6.0\ref\005.dll
